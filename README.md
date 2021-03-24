@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DK497
 - 👀 I’m highly interested in Mobile App Development(react-native)
-- 🌱 I’m currently poloshing my Backend skills in node js
+- 🌱 I’m currently polishing my Backend skills in node js
 - 💞️ I’m looking for internship opportunities in mobile app development
 - 📫 Feel free to reach me :dhananjaik497@gmail.com
 
