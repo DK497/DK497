@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DK497
 - 👀 I’m highly interested in Mobile App Development(react-native)
 - 🌱 I’m currently polishing my coding skills.
-- 💞️ I’m looking for internship opportunities in mobile app development
+- 💞️ Currently working as Senior Mobile Developer in Newslaundry
 - 📫 Feel free to reach me : dhananjaik497@gmail.com
 
 <!---
